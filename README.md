@@ -7,3 +7,5 @@ This is a portfolio for my GEO-242 class taught by Shenyue Jia, during the first
 - [basic-mapping/Week5_Assignment.ipynb](https://github.com/welshshy/GEO242-PORTFOLIO/blob/c08a586e5d7c9a72edc210a89b852ddf9be65863/basic-mapping/Week5_Assignment.ipynb)
 # Map Coordinate Systems:
 - [map-coord-systems/GEO242_Week3_Assignment.ipynb](https://github.com/welshshy/GEO242-PORTFOLIO/blob/c08a586e5d7c9a72edc210a89b852ddf9be65863/map-coord-systems/GEO242_Week3_Assignment.ipynb)
+# Spatial Analysis
+- [spatial_analysis/Week_10_Assignment.ipynb](
