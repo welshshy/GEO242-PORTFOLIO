@@ -14,3 +14,5 @@ This is a portfolio for my GEO-242 class taught by Shenyue Jia, during the first
 # Spatial Analysis
 - [Week 10 Assignment](https://github.com/welshshy/GEO242-PORTFOLIO/blob/936451e89e9669be439608ed0ff5509d71703a56/spatial_analysis/Week_10_Assignment.ipynb)
 - [Week 12 Assignment](https://github.com/welshshy/GEO242-PORTFOLIO/blob/c407220ff5374aac7a1af161358fe8f7c8e31b9e/spatial_analysis/Week12.ipynb)
+# Vector Data
+- [Week 10 Assignment](https://github.com/welshshy/GEO242-PORTFOLIO/blob/c11b20c2aa589c5fb7652462788785cfe4a9b241/vector_data/Copy_of_week_10_assignment_template.ipynb)
